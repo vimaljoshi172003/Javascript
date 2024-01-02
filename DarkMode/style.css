@@ -1,0 +1,18 @@
+body{
+    background-color: #fff;
+    color: #000;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.darkMode{
+    margin-left: 400px;
+}
+.NormalMode{
+    margin-left: 20px;
+}
+span{
+    color: gray;
+}
