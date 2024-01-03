@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+}
+#wrapper{
+    text-align: center;
+    margin-top: 20;
+    background-color: #202020;
+
+}
+#wrapper h1{
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+}
+#wrapper p{
+    padding: 20px 0;
+    background-color: #202020;
+}
+.form{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #202020;
+}
+.form label{
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: #202020;
+    display: block;
+}
+.form input{
+    font-weight: bolder;
+    height: 40px;
+    width: 190px;
+    margin: 50px 550px;
+    background-color: #202020;
+    display: block;
+}
+.resultParas{
+    text-align: center;
+    background-color: #202020;
+}
